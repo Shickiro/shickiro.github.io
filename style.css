@@ -49,7 +49,7 @@ table {
 }
 /*Оформление параметров*/
 body{
-    background: url(images/akasaka_ryuunosuke_by_putraharysandi-d8tuo9n.jpg) no-repeat fixed center;
+    background: url(images/r1lXMOvyJQk.jpg) no-repeat fixed center;
     background-size: cover;
 
 }
@@ -59,11 +59,12 @@ body{
 }
 .state{
     margin-top:100px;
-    color:#9ef0f7;
+    color:#000;
     text-align: center;
     letter-spacing: 4px;
     font-family: "Roboto",sans-serif;
     font-style: italic;
+    font-size: 40pt;
 }    
 #styles ul{
     height: 10px;
